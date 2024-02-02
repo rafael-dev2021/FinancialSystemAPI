@@ -1,0 +1,10 @@
+# Arquivos binários
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos rastreados
+*.log
+*.tmp
+*.swp
